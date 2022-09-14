@@ -5,6 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 
 export class NavBar extends Component {
+  //components
   render() {
     return (
       <div>
